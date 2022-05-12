@@ -3,7 +3,7 @@ backend:
   repo: BlendiSpahiu/remix-netlify
   branch: main
   
-
+site_url: https://stirring-arithmetic-63c4dd.netlify.app/
 
 publish_mode: editorial_workflow
 media_folder: images
