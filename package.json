@@ -15,6 +15,7 @@
     "@remix-run/node": "^1.4.3",
     "@remix-run/react": "^1.4.3",
     "cross-env": "^7.0.3",
+    "netlify-cms-app": "^2.15.72",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
