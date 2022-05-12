@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
+  repo: BlendiSpahiu/remix-netlify
   branch: main
+  
 
 
 publish_mode: editorial_workflow
